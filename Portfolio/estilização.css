@@ -1,0 +1,23 @@
+body{
+	background-image: url("fundo.jpg");
+	background-color: #cccccc;
+	font-family: Arial ;
+	color: blueviolet;
+	align-content: center;
+
+}
+h1{
+	border-bottom: 1px dashed; black;
+}
+
+nav{
+	display: flow;
+	
+}
+nav ul{
+	list-style: none;
+}
+
+.github-logo.png{
+	width: 100;
+}
