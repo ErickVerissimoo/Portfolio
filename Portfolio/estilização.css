@@ -64,14 +64,16 @@ button:hover{
 }
 
 .text{
-	display: inline;
 	color: aliceblue;
 	font-size: 15px;
 	justify-content:space-between;
 }
 
 .container-text{
-	padding: 180px;
+	display: inline-flex;
+	padding: 110px 70px 20px 170px;
+	position: relative;
+	right: 30px;
 }
 
 .github{
