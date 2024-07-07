@@ -99,3 +99,14 @@ button:hover{
 	width: 45px;
 	filter: invert(100%);
 }
+
+.monkey{
+	border-radius: 100%;
+	top: 300px;
+}
+
+.macac{
+	display: flex;
+	bottom: 100px;
+	
+}
